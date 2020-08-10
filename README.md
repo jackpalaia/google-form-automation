@@ -16,7 +16,7 @@ The second variable(s) is the id of each question that you want to fill in the f
 
 `<div jsmodel="CP1oW" data-params="%.@.[612126548,&quot;question text &quot;,null,1,[[1825518466,[],true,[],[]]],null,null,null,[]],&quot;i1&quot;,&quot;i2&quot;,&quot;i3&quot;,false]" class="m2">`
 
-You want the number right after the double open bracket ([[). In my case, this number is `1825518466`.
+You want the number right after the double open bracket `[[`. In my case, this number is `1825518466`.
 
 Repeat this process for each question in the form until you have all the question id's. Then, take these numbers and put them in the `question_numbers` list in `main.py`. Put them in the order of each question.
 
