@@ -25,3 +25,5 @@ Finally, for the last field, fill in the `content` list in `main.py` with the co
 For multiple choice questions, set the content as the value of the multiple choice option you want to select.
 
 Checkbox questions are currently not supported.
+
+When all previous steps are completed, simply run the program with `python main.py`.
